@@ -2,6 +2,6 @@
 
 import React from "react";
 
-export default ImageSlider(){
+export default ImageSlider extends Component{
   
 }
