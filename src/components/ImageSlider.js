@@ -4,4 +4,8 @@ import React from "react";
 
 export default ImageSlider extends React.Component{
   
+  state = {
+    
+  }
+  
 }
